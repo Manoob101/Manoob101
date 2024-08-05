@@ -14,14 +14,14 @@
 ---
 
 ### :man_technologist: About Me :
-I'm a student focusing on devops
+I'm a student focusing on DevOps
 - 🐧 Styding Linux system administration
-- 💻 Teaching myself fullstack development
+- 💻 Teaching myself full-stack development
 - 🚀 Fast and motivated learner with infinite curiosity 
 - 🧠 Problem solving is my lifestyle
 - ☎️ Reach me using Linkedin or Facebook
 
-### Tools and technologies I'm familier with
+### Tools and technologies I'm familiar with
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" height="60" width="60"/>&nbsp;
@@ -37,5 +37,3 @@ I'm a student focusing on devops
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoob101&show_icons=true&locale=en&layout=compact" alt="manoob101" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoob101&show_icons=true&locale=en" alt="manoob101" /></p>
-
-*/
