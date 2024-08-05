@@ -19,7 +19,7 @@ I'm a student focusing on DevOps
 - 💻 Teaching myself full-stack development
 - 🚀 Fast and motivated learner with infinite curiosity 
 - 🧠 Problem solving is my lifestyle
-- ☎️ Reach me using Linkedin or Facebook
+- ☎️ Reach me using Linkedin
 
 ### Tools and technologies I'm familiar with
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="60"/>&nbsp;
