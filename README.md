@@ -22,14 +22,10 @@ I'm a student focusing on DevOps
 - ☎️ Reach me using Linkedin
 
 ### Tools and technologies I'm familiar with
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="60" width="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" height="60" width="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" height="60" width="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="60" width="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" height="60" width="60"/>&nbsp;
 
